@@ -1,0 +1,14 @@
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\ModelViewer\bin\Release\Sample Models\Tiger.xaml
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\ModelViewer\bin\Release\Sample Models\Tiger.bmp
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\ModelViewer\bin\Release\ModelViewer.exe
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\ModelViewer\bin\Release\3DTools.dll
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\ModelViewer\obj\Release\ModelViewer.csprojResolveAssemblyReference.cache
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\ModelViewer\obj\Release\MainWindow.baml
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\ModelViewer\obj\Release\MainWindow.g.cs
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\ModelViewer\obj\Release\MyApp.g.cs
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\ModelViewer\obj\Release\ModelViewer_Content.g.cs
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\ModelViewer\obj\Release\ModelViewer_MarkupCompile.cache
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\ModelViewer\obj\Release\ModelViewer.g.resources
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\ModelViewer\obj\Release\ModelViewer.Properties.Resources.resources
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\ModelViewer\obj\Release\ModelViewer.csproj.GenerateResource.Cache
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\ModelViewer\obj\Release\ModelViewer.exe

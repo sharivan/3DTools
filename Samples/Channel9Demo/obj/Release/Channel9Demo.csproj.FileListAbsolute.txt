@@ -1,0 +1,11 @@
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\Channel9Demo\bin\Release\Channel9Demo.exe
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\Channel9Demo\bin\Release\3DTools.dll
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\Channel9Demo\obj\Release\Channel9Demo.csprojResolveAssemblyReference.cache
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\Channel9Demo\obj\Release\DemoWindow.baml
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\Channel9Demo\obj\Release\DemoWindow.g.cs
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\Channel9Demo\obj\Release\App.g.cs
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\Channel9Demo\obj\Release\Channel9Demo_MarkupCompile.cache
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\Channel9Demo\obj\Release\Channel9Demo.g.resources
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\Channel9Demo\obj\Release\Channel9Demo.Properties.Resources.resources
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\Channel9Demo\obj\Release\Channel9Demo.csproj.GenerateResource.Cache
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\Channel9Demo\obj\Release\Channel9Demo.exe

@@ -1,0 +1,10 @@
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\GeneratedTextureCoordinatesDemo\bin\Release\GeneratedTextureCoordinatesDemo.exe
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\GeneratedTextureCoordinatesDemo\bin\Release\3DTools.dll
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\GeneratedTextureCoordinatesDemo\obj\Release\Window1.baml
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\GeneratedTextureCoordinatesDemo\obj\Release\Window1.g.cs
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\GeneratedTextureCoordinatesDemo\obj\Release\App.g.cs
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\GeneratedTextureCoordinatesDemo\obj\Release\GeneratedTextureCoordinatesDemo_MarkupCompile.cache
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\GeneratedTextureCoordinatesDemo\obj\Release\GeneratedTextureCoordinatesDemo.g.resources
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\GeneratedTextureCoordinatesDemo\obj\Release\GeneratedTextureCoordinatesDemo.Properties.Resources.resources
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\GeneratedTextureCoordinatesDemo\obj\Release\GeneratedTextureCoordinatesDemo.csproj.GenerateResource.Cache
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\GeneratedTextureCoordinatesDemo\obj\Release\GeneratedTextureCoordinatesDemo.exe

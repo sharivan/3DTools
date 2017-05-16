@@ -1,0 +1,15 @@
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\Test\bin\Release\Test.exe.config
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\Test\bin\Release\Test.exe
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\Test\bin\Release\Test.pdb
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\Test\bin\Release\3DTools.dll
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\Test\obj\Release\Test.csprojResolveAssemblyReference.cache
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\Test\obj\Release\MainWindow.g.cs
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\Test\obj\Release\App.g.cs
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\Test\obj\Release\Test_MarkupCompile.cache
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\Test\obj\Release\Test_MarkupCompile.lref
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\Test\obj\Release\MainWindow.baml
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\Test\obj\Release\Test.g.resources
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\Test\obj\Release\Test.Properties.Resources.resources
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\Test\obj\Release\Test.csproj.GenerateResource.Cache
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\Test\obj\Release\Test.exe
+C:\Users\miste\Documents\Projects\c#\vc#\3DTools\Samples\Test\obj\Release\Test.pdb
